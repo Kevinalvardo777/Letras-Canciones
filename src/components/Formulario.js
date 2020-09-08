@@ -28,6 +28,9 @@ const Formulario = () => {
         }
 
         guardarError(false);
+
+        // Todo bien, pasar al componente principal
+        
         
     }
 
